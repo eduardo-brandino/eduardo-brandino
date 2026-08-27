@@ -1,8 +1,8 @@
 ### Hello there! 👋 I'm Eduardo Brandino. | Olá, eu sou o Eduardo Brandino.
 
-- 🌱 I’m currently learning new front-end tools | Atualmente aprendendo novas ferramentas de front-end
-- 😄 Pronouns: He/His | Ele/Dele
-- ⚡ Fun fact: I was an amateur cyclist | Eu praticava ciclismo amador
+- 🌱 I’m currently learning new front-end tools 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I was an amateur cyclist 
 
 
 ##
